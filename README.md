@@ -92,8 +92,6 @@ A hand-coded, mobile-first school website (13 pages) with full-site search, a JS
 - **Server:** Linux VPS · OpenLiteSpeed · CyberPanel · MariaDB · PHP 8.x
 - **Edge & security:** Cloudflare DNS and proxy on every site, Origin certificates with Full (Strict) SSL, TLS 1.2+
 - **Email:** Postfix + Dovecot mail server with webmail for every client domain
-- **Billing:** FOSSBilling with Pesapal and Mobile Money
-- **Automation:** Bash, WP-CLI and REST APIs (Cloudflare, CyberPanel, FOSSBilling, Hostinger)
 
 ---
 
