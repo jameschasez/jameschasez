@@ -33,32 +33,10 @@ A patient-facing platform for a diagnostic laboratory in Jinja with a full admin
 - Result/report delivery to patients
 - Filament admin panel with resources, pages and dashboard widgets
 
-### ⚙️ Elgon hosting automation
-`Bash` `WP-CLI` `Cloudflare API` `CyberPanel API` `FOSSBilling API`
-
-Scripted, end-to-end provisioning for the hosting business. One command sets up a complete client site:
-- Creates the website, FTP and mailboxes in CyberPanel
-- Adds the Cloudflare zone and DNS (proxied web, DNS-only mail), issues a 15-year Origin certificate and enforces Full (Strict) SSL
-- Installs and hardens WordPress with WP-CLI
-- Creates the client and invoice in FOSSBilling
-- Health checks and daily server reports
-
-### 💳 Elgon Billing — client portal & invoicing
-**[billing.elgonwebhosting.com](https://billing.elgonwebhosting.com)** · `FOSSBilling` `PHP` `Twig`
-
-Customised FOSSBilling for hosting and domain billing: invoices show the service period, a transaction history with balance, Pay Now links and Mobile Money (MTN / Airtel) payment instructions.
-
 ### 🏫 Asante International Christian School
 **[asanteintchristian.ac.ug](https://asanteintchristian.ac.ug)** · `HTML5` `CSS3` `JavaScript` `GSAP` `PHP`
 
 A hand-coded, mobile-first school website (13 pages) with full-site search, a JSON-driven events system that moves past events automatically, add-to-calendar, a swipeable reviews slider and a working contact form.
-
-### 🌐 Elgon Web Hosting & Elgon Prints
-**[elgonwebhosting.com](https://elgonwebhosting.com)** · `WordPress` `WooCommerce` `Pesapal` `WHMCS bridge`
-Hosting company site with domain search, online shop and Pesapal mobile-money/card checkout.
-
-**[print.elgonwebhosting.com](https://print.elgonwebhosting.com)** · `WordPress` `WooCommerce` `Custom child theme`
-Design · Print · Deliver — an online printing shop.
 
 ---
 
